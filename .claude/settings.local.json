@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(node:*)",
+      "Bash(where.exe:*)",
+      "Bash(\"/c/Program Files/nodejs/node.exe\" D:/vcards/generate.js)",
+      "Bash(\"/c/Program Files \\(x86\\)/nodejs/node.exe\" D:/vcards/generate.js)",
+      "Bash(\"$LOCALAPPDATA/Programs/node/node.exe\" D:/vcards/generate.js)",
+      "Bash(\"$APPDATA/nvm/current/node.exe\" D:/vcards/generate.js)",
+      "Bash(python:*)"
+    ]
+  }
+}
